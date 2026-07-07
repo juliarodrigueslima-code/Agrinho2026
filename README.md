@@ -49,3 +49,7 @@ Conclusão
 
 O Agrinho 2026 reforça a importância da parceria entre o campo e a cidade, incentivando atitudes conscientes que ajudam a preservar o meio ambiente e garantem um futuro melhor para todos.
 feito por Júlia Rodrigues Lima
+
+ Coloque seu nome, analise de acordo com sua preferência, qual modo de claridade prefere.
+ Os textos foram de minha autoria, a citação fiz de acordo com uma pesquisa.
+ O site mostra que a união entre campo e cidade, junto com a sustentabilidade e a educação, é essencial para construir um futuro melhor.
