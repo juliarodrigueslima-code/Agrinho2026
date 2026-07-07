@@ -1,19 +1,21 @@
 Agrinho 2026
 
- Descrição
+Sobre o Projeto
 
-Este projeto foi desenvolvido como atividade escolar com o tema Agrinho 2026 – Festejando a conexão entre o campo e a cidade.
+O Agrinho 2026 é um site desenvolvido em HTML, CSS e JavaScript com o objetivo de apresentar a importância da conexão entre o campo e a cidade.
 
-O site tem como objetivo conscientizar sobre a importância da relação entre o campo e a cidade, mostrando como ambos dependem um do outro para garantir qualidade de vida, alimentação, desenvolvimento econômico e preservação do meio ambiente.
+A página aborda temas como sustentabilidade, preservação ambiental, produção de alimentos e cidadania, mostrando como a colaboração entre o meio rural e o urbano contribui para o desenvolvimento da sociedade.
 
-Além disso, o projeto demonstra a utilização de HTML5, CSS3 e JavaScript, explorando diferentes recursos de desenvolvimento web e diversas tags HTML.
+Além do conteúdo educativo, o site possui um design moderno, responsivo e interativo, proporcionando uma melhor experiência ao usuário.
 
-Objetivos
+Funcionalidades
 
-Desenvolver um site utilizando HTML, CSS e JavaScript;
-Aplicar diversas tags HTML aprendidas em aula;
-Destacar a importância da conexão entre o campo e a cidade;
-Incentivar a conscientização sobre sustentabilidade e cidadania.
+Alternância entre modo claro e modo escuro.
+Campo para inserir o nome do visitante.
+Mensagem de boas-vindas personalizada.
+Layout responsivo para diferentes dispositivos.
+Informações sobre o Programa Agrinho 2026.
+Interface simples, organizada e agradável.
 
 Tecnologias Utilizadas
 
@@ -23,33 +25,27 @@ JavaScript
 
 Estrutura do Projeto
 
-Agrinho2026/
+Agrinho2026
 index.html
-style.css
+ style.css
 script.js
 README.md
 
- Arquivos
+Conteúdo do Site
 
- index.html
-Arquivo responsável pela estrutura da página, contendo textos, títulos, listas, imagens, links e demais elementos HTML.
+Introdução ao Programa Agrinho
+Citação inspiradora
+Exemplo de código em JavaScript
+Benefícios da conexão entre campo e cidade
+Como cada pessoa pode contribuir para um futuro sustentável
+Glossário de conceitos importantes
+Link para saber mais sobre o Programa Agrinho
 
- style.css
-Responsável pela aparência do site, incluindo cores, layout, animações, efeitos visuais e adaptação ao modo escuro.
+Objetivo
 
-script.js
-Controla as funcionalidades da página, como a troca entre modo claro e modo escuro e a interação com o usuário.
+Demonstrar conhecimentos em desenvolvimento web utilizando HTML, CSS e JavaScript, aplicando diferentes elementos da linguagem HTML em um projeto educativo sobre sustentabilidade e cidadania.
 
-Funcionalidades
+Conclusão
 
-Alternância entre modo claro e escuro.
-Layout responsivo.
-Imagem ilustrativa sobre o tema.
-Uso de diversas tags HTML.
-Interface moderna e organizada.
-
-Sobre o Agrinho
-
-O Programa Agrinho busca promover a educação, a cidadania e a sustentabilidade por meio de atividades que aproximam o campo e a cidade. O projeto incentiva a preservação ambiental, o consumo consciente e a valorização do trabalho realizado no meio rural.
-
-Desenvolvido por: Júlia Rodrigues Lima
+O Agrinho 2026 reforça a importância da parceria entre o campo e a cidade, incentivando atitudes conscientes que ajudam a preservar o meio ambiente e garantem um futuro melhor para todos.
+feito por Júlia Rodrigues Lima
